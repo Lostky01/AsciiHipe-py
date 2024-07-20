@@ -2,7 +2,7 @@
 
 This is a simple string chiper concept made entirely with python
 if youre asking, whats with the wo ai ni? is this some love story bullshit?
-nah lol, you can change it though it purposefully made for showing a specific condition on the loop
+nah lol, you can change it though, it purposefully made for showing a specific condition on the loop
 
 
 # String Chiper
