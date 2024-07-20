@@ -1,6 +1,9 @@
 # AsciiHipe-py
 
 This is a simple string chiper concept made entirely with python
+if youre asking, whats with the wo ai ni? is this come love story bullshit?
+actually yeah lol, you can change it though it purposefully made for showing a specific condition on the loop
+
 
 # String Chiper
 First of all, you must understand what a string chiper is
